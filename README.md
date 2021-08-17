@@ -9,6 +9,7 @@ This project tries to predict Covid-19's contagious for the months of August and
 Technologies and tools: Python (Libraries: pandas, matplotlib, sklearn), SQL Server
 
 
+
 (español)
 Fecha que se realizo la prediccion: 15/may/2021
 
