@@ -11,6 +11,7 @@ Technologies and tools: Python (Libraries: pandas, matplotlib, sklearn), SQL Ser
 
 
 (español)
+
 Fecha que se realizo la prediccion: 15/may/2021
 
 La informacion de este proyecto fue tomada de la pagina del gobierno de colombia: https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data
