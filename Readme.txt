@@ -1,4 +1,4 @@
-# Prediction-Covid
+# predictionCovid
 Date the prediction is made: 15/may/2021
 
 The information of this project was taken up from colombian government page: https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data
